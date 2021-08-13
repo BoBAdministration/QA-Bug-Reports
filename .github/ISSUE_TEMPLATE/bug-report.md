@@ -1,21 +1,21 @@
 ---
 name: Bug Report
 about: Create a report to help us improve
-title: ''
+title: Enter a one-line concise summary.
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the Bug**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Steps to reproduce the behavior in detail. Please include ALL steps, even menial ones.
+1. ex. Logged into Dedicated Testing 1
+2. ex. Spawned in a Megalo at Jungle
+3. ex. Drank from big pond
+4. ex. "..." happened
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
