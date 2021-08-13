@@ -24,7 +24,7 @@ A clear and concise description of what you expected to happen.
 A clear and concise description of what actually happens.
 
 **Screenshots & Video**
-If applicable, add screenshots to help explain your problem, or attach a video/gif.
+If applicable, add screenshots to help explain your problem, or attach a video/gif. You can do this by just pasting in your image(s)!
 
 **Branch Version**
 Tester or Live.
